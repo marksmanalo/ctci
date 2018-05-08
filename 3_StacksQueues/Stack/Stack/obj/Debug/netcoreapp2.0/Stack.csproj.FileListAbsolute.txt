@@ -1,0 +1,11 @@
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.deps.json
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.json
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.dev.json
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.dll
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/bin/Debug/netcoreapp2.0/Stack.pdb
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.csprojResolveAssemblyReference.cache
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.csproj.CoreCompileInputs.cache
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.AssemblyInfoInputs.cache
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.AssemblyInfo.cs
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.dll
+/Users/marksmanalo/git/ctci/3_StacksQueues/Stack/Stack/obj/Debug/netcoreapp2.0/Stack.pdb
